@@ -3,7 +3,7 @@ module github.com/gotelebot/basic
 go 1.19
 
 require (
-	github.com/3JoB/telebot v0.0.0-20230204090104-6e432d9cfc3c
+	github.com/3JoB/telebot v0.0.0-20230206093018-d4bc9140380f
 	github.com/3JoB/ulib v0.0.6
 )
 
