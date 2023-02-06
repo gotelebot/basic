@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/3JoB/telebot v0.0.0-20230206093018-d4bc9140380f
-	github.com/3JoB/ulib v0.0.6
+	github.com/3JoB/ulib v0.0.7
 )
 
 require (

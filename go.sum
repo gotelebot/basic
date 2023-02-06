@@ -6,6 +6,8 @@ github.com/3JoB/telebot v0.0.0-20230206093018-d4bc9140380f h1:7G/ari6DQTh+6/bI+U
 github.com/3JoB/telebot v0.0.0-20230206093018-d4bc9140380f/go.mod h1:/5lZ+FTI/7qV+94/5F/UKgZaqEjidzsqFXq303xCO0Q=
 github.com/3JoB/ulib v0.0.6 h1:7iuXUI9+meY1avfftHWpdomPpgjSF5BAvZnIql8zYkI=
 github.com/3JoB/ulib v0.0.6/go.mod h1:QQ+YGDbxMFoMuOuh85GNA4yFFT9sQFV50dBI0JiZ+LQ=
+github.com/3JoB/ulib v0.0.7 h1:LaUqt6AvCj3TUDI9sUxltbLCHJEJu4RpLwdvpQq6dFk=
+github.com/3JoB/ulib v0.0.7/go.mod h1:THE7aFOJ9DCWvHAFyxb3hbLrKKHReWQ8XHH+vPqAy0E=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/frankban/quicktest v1.14.3 h1:FJKSZTDHjyhriyC81FLQ0LY93eSai0ZyR/ZIkd3ZUKE=
 github.com/goccy/go-json v0.10.0 h1:mXKd9Qw4NuzShiRlOXKews24ufknHO7gx30lsDyokKA=
