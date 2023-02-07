@@ -2,7 +2,7 @@ package main
 
 import (
 	tele "github.com/3JoB/telebot"
-	tb "github.com/3JoB/ulib/telebot"
+	tb "github.com/3JoB/ulib/telebot/utils"
 )
 
 var (
