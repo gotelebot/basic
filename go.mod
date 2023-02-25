@@ -3,8 +3,8 @@ module github.com/gotelebot/basic
 go 1.20
 
 require (
-	github.com/3JoB/telebot v0.1.1
-	github.com/3JoB/ulib v0.1.4
+	github.com/3JoB/telebot v1.0.0
+	github.com/3JoB/ulib v1.3.0
 )
 
 require (
